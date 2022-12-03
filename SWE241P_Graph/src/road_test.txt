@@ -1,0 +1,6 @@
+Los Angeles : San Diego
+San Jose : Fresno
+Fresno : Los Angeles
+San Jose : Los Angeles
+San Francisco : Sacramento
+Sacramento : Long Beach
